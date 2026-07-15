@@ -1,0 +1,27 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.0",
+	"FriendlyName": "HeresJohnny",
+	"Description": "A simple mod that ensures Johnny the Jetpack Hog spawns in a few locations around the map.",
+	"Category": "Modding",
+	"CreatedBy": "voxnor",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"BuiltInInitialFeatureState": "Active",
+	"Plugins": [
+		{
+			"Name": "SML",
+			"Enabled": true,
+			"SemVersion": "^3.12.0"
+		}
+	],
+	"SemVersion": "1.0.0",
+	"GameVersion": ">=491125"
+}
